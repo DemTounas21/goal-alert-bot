@@ -6,7 +6,6 @@ API_KEY = "123"
 API_URL = f"https://www.thesportsdb.com/api/v1/json/{API_KEY}/livescore.php?s=Soccer"
 
 # 🤖 Βάλε εδώ το Telegram Bot Token και το Chat ID σου
-API_KEY = "123"
 TELEGRAM_TOKEN = "8359987952:AAF5duBgp7gTzHUuZ9_GT7Shvq4hr4_oxk8"
 TELEGRAM_CHAT_ID = "6092250221"
 
