@@ -2,7 +2,7 @@ import requests
 import time
 
 # 🔑 Βάλε εδώ το API key σου από το TheSportsDB (ή άλλη υπηρεσία με live scores)
-API_KEY = "YOUR_API_KEY"
+API_KEY = "123"
 API_URL = f"https://www.thesportsdb.com/api/v1/json/{API_KEY}/livescore.php?s=Soccer"
 
 # 🤖 Βάλε εδώ το Telegram Bot Token και το Chat ID σου
